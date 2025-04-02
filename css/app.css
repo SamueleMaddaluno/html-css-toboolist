@@ -38,6 +38,29 @@ ul, ol {list-style: none;
 .todo-card{
     background-color: white;
     border-radius: 10px;
+    padding: 0px 30px;
 }
 
-
+.button{
+    display: inline-block;
+    border-bottom: solid 1px black;
+    padding: 5px;
+   
+}
+.list{
+    display: inline-block;
+}
+.special-signs{
+    display: inline-block;
+    padding: 2px;
+    border: 1px solid green;
+    border-radius: 100%;
+    font-size: 10px;
+    color: green;
+}
+ul{
+    padding: 10px;
+}
+li{
+    padding: 5px;
+}
