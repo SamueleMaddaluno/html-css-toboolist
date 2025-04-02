@@ -5,3 +5,39 @@
     margin: 0;
     padding: 0;
 }
+
+/* layout */
+
+.countainer{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 24px;
+}
+
+body{
+    background-color: rgb(143, 231, 231);
+}
+
+ul, ol {list-style: none;
+
+}
+/* header */
+
+.page-header{
+    background-color: white;
+    padding: 10px 10px;
+}
+
+.page-header .logo{
+    width: 120px;
+
+}
+
+/* main */
+
+.todo-card{
+    background-color: white;
+    border-radius: 10px;
+}
+
+
